@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bite, Bytes!</title>
+  <subtitle>Jason Hong&#39;s IT Blog supported by Hexo</subtitle>
+  <link href="/feed.xml" rel="self"/>
+  
+  <link href="http://seok-hong.github.io/"/>
+  <updated>2017-02-02T00:38:57.000Z</updated>
+  <id>http://seok-hong.github.io/</id>
+  
+  <author>
+    <name>Jason Hong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Contact</title>
+    <link href="http://seok-hong.github.io/2017/02/02/Contact/"/>
+    <id>http://seok-hong.github.io/2017/02/02/Contact/</id>
+    <published>2017-02-02T00:37:03.000Z</published>
+    <updated>2017-02-02T00:38:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Seok-Hong"><a href="#Seok-Hong" class="headerlink" title="Seok Hong"></a>Seok Hong</h1><p>seok85.hong@gmail.com<br><a href="https://linkedin.com/in/seok-hong-455587b9" rel="external nofollow noopener noreferrer" target="_blank">in/seok-hong-455587b9</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Seok-Hong&quot;&gt;&lt;a href=&quot;#Seok-Hong&quot; class=&quot;headerlink&quot; title=&quot;Seok Hong&quot;&gt;&lt;/a&gt;Seok Hong&lt;/h1&gt;&lt;p&gt;seok85.hong@gmail.com&lt;br&gt;&lt;a href=&quot;https://
+    
+    </summary>
+    
+      <category term="About" scheme="http://seok-hong.github.io/categories/About/"/>
+    
+    
+  </entry>
+  
+</feed>
