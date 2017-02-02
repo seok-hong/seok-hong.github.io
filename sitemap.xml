@@ -3,17 +3,17 @@
 
     <sitemap>
         <loc>http://seok-hong.github.io/post-sitemap.xml</loc>
-        <lastmod>2017-02-02T00:38:57.000Z</lastmod>
+        <lastmod>2017-02-02T05:39:31.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://seok-hong.github.io/category-sitemap.xml</loc>
-        <lastmod>2017-02-02T00:38:57.000Z</lastmod>
+        <lastmod>2017-02-02T05:37:24.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://seok-hong.github.io/tag-sitemap.xml</loc>
-        
+        <lastmod>2017-02-02T05:37:24.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>
